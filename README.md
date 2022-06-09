@@ -11,4 +11,4 @@ HTML, CSS
 [View Project](https://sergiomendozer.github.io/Morph-Athletic-Expo-Long-Beach/)
 
 ## Project Image
-<a href="url"><img src="/expo.png"  height="400" width="350" ></a>
+<a href="url"><img src="/expo.png"  height="350" width="350" ></a>
